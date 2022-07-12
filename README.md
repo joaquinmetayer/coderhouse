@@ -1,6 +1,6 @@
 # CoderHouse
 
-Archive of all my codes created in <a href="https://www.coderhouse.com/">FreeCodeCamp</a>
+Archive of all my codes created in <a href="https://www.coderhouse.com/">CoderHouse</a>
 
 If you see all this in a simple view, go to: https://joaquinmetayer.github.io/coderhouse/
 
