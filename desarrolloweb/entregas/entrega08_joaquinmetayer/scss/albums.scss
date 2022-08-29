@@ -1,0 +1,26 @@
+@import 'variables';
+
+.albums-background{
+    background-color: $backblack;
+    color: #fff;
+}
+.albums{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    padding: 1em;
+    grid-area: albums;
+}
+.albums iframe{
+    margin: 1em;
+    width: auto;
+    border-radius: 10px;
+    box-shadow: $shadowall;
+}
+.container-disco{
+    background-image: url('../images/Rufus-Du-Sol-Joshua-Tree.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;                
+}
