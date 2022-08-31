@@ -88,6 +88,21 @@ while i < 51:
     else: continue
 else: print(lista5)
 
-
-6) Dadas dos listas, debes generar una tercera con todos los elementos que se repitan en ellas, pero no debe repetirse ningún elemento en la nueva lista:
 '''
+
+lista_1 = ['h','o','l','a',' ', 'm','u','n','d','o']
+lista_2 = ['h','o','l','a',' ', 'l','u','n','a']
+
+lista_3 = []
+
+for value in lista_1:
+    if value in lista_3:
+        pass
+    else:
+       lista_3.append(value)
+for value in lista_2:
+    if value in lista_3:
+        pass
+    else:
+       lista_3.append(value)
+print(lista_3)
